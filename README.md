@@ -3,4 +3,4 @@ This is my repo for Advent Of Code 2023
 
 | Question       |    Status    |
 |----------------|--------------|
-|       #1       |    DOING     |
+|       #1       |    DONE      |
