@@ -52,7 +52,7 @@ def part2(file):
     return part2_results
 
 # Open file, define total cubes for part 1
-file = open("./data-day2.txt", "r")
+file = open("./data/day2.txt", "r")
 total_red = 12
 total_green = 13
 total_blue = 14
